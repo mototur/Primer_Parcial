@@ -13,7 +13,6 @@ class Pastel extends Postre {
     @Override
     public void servir() { /* Implementar servicio */ }
 
-    // Getter y setter
     public String getSabor() { return sabor; }
     public void setSabor(String sabor) { this.sabor = sabor; }
 }

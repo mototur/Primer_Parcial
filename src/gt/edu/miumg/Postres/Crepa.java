@@ -13,7 +13,7 @@ class Crepa extends Postre {
     @Override
     public void servir() { /* Implementar servicio */ }
 
-    // Getter y setter
+
     public String getTipoMasa() { return tipoMasa; }
     public void setTipoMasa(String tipoMasa) { this.tipoMasa = tipoMasa; }
 }

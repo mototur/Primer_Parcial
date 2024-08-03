@@ -1,6 +1,6 @@
 package gt.edu.miumg.Ingredientes;
 
-interface Ingrediente {
+interface Ingredientes {
     String obtenerNombre();
     double obtenerCantidad();
 }

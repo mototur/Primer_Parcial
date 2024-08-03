@@ -14,7 +14,6 @@ abstract class Postre {
     public abstract void preparar();
     public abstract void servir();
 
-    // Getters y setters
     public String getNombre() { return nombre; }
     public void setNombre(String nombre) { this.nombre = nombre; }
     public String getTamaño() { return tamaño; }

@@ -13,7 +13,7 @@ class Cheesecake extends Postre {
     @Override
     public void servir() { /* Implementar servicio */ }
 
-    // Getter y setter
+
     public String getTipoQueso() { return tipoQueso; }
     public void setTipoQueso(String tipoQueso) { this.tipoQueso = tipoQueso; }
 }
